@@ -29,3 +29,9 @@ Vibetune is a web application designed for music enthusiasts, allowing users to 
 - Docker
 - Node.js and npm (for React and TypeScript)
 - Python 3.8 or higher (for Django and FastAPI)
+
+
+<img src="ob1.jpeg" alt="JavaPaint Screenshot">
+<img src="ob2.jpeg" alt="JavaPaint Screenshot">
+<img src="ob3.jpeg" alt="JavaPaint Screenshot">
+<img src="ob4.jpeg" alt="JavaPaint Screenshot">
